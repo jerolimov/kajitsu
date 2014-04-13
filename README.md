@@ -1,11 +1,13 @@
 # kajitsu
 
-**Status:** Prototype / Java 8 Lambda test project.
+## Java 8 middleware web application framework.
 
-Tiny Java 8 web application framework.
+**Status:** Prototype.
 
-100% dependency free and inspired by the great javascript frameworks
-[express](http://expressjs.com/) and [koa](http://koajs.com/).
+Inspired by the great javascript frameworks
+[connect](http://www.senchalabs.org/connect/),
+[express](http://expressjs.com/) and
+[koa](http://koajs.com/).
 
 ```java
 public class Example1 {
@@ -35,3 +37,7 @@ public class Example1 {
     }
 }
 ```
+
+100% dependency free. Java 8 SE should be enought, or?
+
+No Servlet-API? YEP!
